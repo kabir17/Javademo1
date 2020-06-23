@@ -1,9 +1,19 @@
 package fish;
 
+import java.util.Scanner;
+
 public class fishRunner {
     public static void main(String[] args) {
 
-        Salmon sobj = new Salmon();
+        Scanner input = new Scanner(System.in);
+
+        int num;
+        System.out.println("Enter any number : ");
+        num = input.nextInt();
+
+        System.out.println("Use Scanner for number :"+num);
+
+        Salmon sobj = new Salmon("salmon",2,20.00);
         sobj.valueString();
         sobj.fishCost();
         sobj.valueOfBoolean();
@@ -25,6 +35,7 @@ public class fishRunner {
         System.out.println("Divide : "+tobj.divide(20));
         System.out.println(tobj.isBoolean());
         System.out.println(tobj.trueFalse());
-
+        shrmobj.oddEven();
+        shrmobj.oddEvenNumber();
     }
 }

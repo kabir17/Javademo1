@@ -10,7 +10,6 @@ public class Shrimp {
     char size;
     boolean isAlive;
 
-
     public Shrimp (){
     }
     public Shrimp(String fishName,int piece,double cost){
@@ -73,5 +72,35 @@ public class Shrimp {
         }else
             System.out.println("false");
         return false;
+    }
+    public void oddEven(){
+        int i= (int)(Math.random()*5);
+        System.out.println("Odd even result : ");
+
+        if(i==3){
+            System.out.println("5 is a odd number");
+        }
+        else if(i==2){
+            System.out.println("2 is a even number");
+        }
+        else if(i==1){
+            System.out.println("1 is a odd number");
+        }
+        else if(i==0){
+            System.out.println("0 is a even number");
+        }
+        else {
+            System.out.println("No number,else msg");
+        }
+    }
+    public void oddEvenNumber(){
+        int i=100;
+
+        if(i==100){
+            System.out.println("100 is a even number");
+        }
+        else {
+            System.out.println("No number,no msg");
+        }
     }
 }
