@@ -86,4 +86,15 @@ public class Mango {
             j++;
         }
     }
+    public void evenOdd(){
+        int i= (int)(Math.random()*2);
+        System.out.println("Random number: "+i);
+
+        if (i==0 || i==2){
+            System.out.println("Even number");
+        }
+        if(i==1){
+            System.out.println("Odd number");
+        }
+    }
 }

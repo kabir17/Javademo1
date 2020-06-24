@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7fc64ab-a4aa-48b3-ba92-9550e8580397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/fish/Shrimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javajun2/fish/Shrimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/fish/fishRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javajun2/fish/fishRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/fruits/FruitsRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javajun2/fruits/FruitsRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/fruits/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/vegetables/Asparagus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javajun2/vegetables/Chilli.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fish/Shrimp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fish/Shrimp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fish/fishRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fish/fishRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fish/Tuna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fish/Tuna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fruits/FruitsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fruits/FruitsRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fruits/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vegetables/Asparagus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vegetables/Chilli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fruits/Mango.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fruits/Mango.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fish/Tuna.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+            <state relative-caret-position="325">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -59,17 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fruits/Mango.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+            <state relative-caret-position="498">
+              <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fruits/FruitsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -99,10 +89,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/fish/Salmon.java" />
-        <option value="$PROJECT_DIR$/src/fish/Tuna.java" />
-        <option value="$PROJECT_DIR$/src/fruits/Mango.java" />
         <option value="$PROJECT_DIR$/src/fish/fishRunner.java" />
         <option value="$PROJECT_DIR$/src/fish/Shrimp.java" />
+        <option value="$PROJECT_DIR$/src/fish/Tuna.java" />
+        <option value="$PROJECT_DIR$/src/fruits/Mango.java" />
         <option value="$PROJECT_DIR$/src/fruits/FruitsRunner.java" />
       </list>
     </option>
@@ -216,6 +206,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17380026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -295,20 +286,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fruits/FruitsRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fruits/Mango.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fish/fishRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -332,8 +309,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fish/Tuna.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fruits/Mango.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fruits/FruitsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

@@ -98,7 +98,7 @@ public class Tuna {
             System.out.println("Not equal to msg");
         }
         else
-            System.out.println("else msg");
+            System.out.println("else msg anything we want");
         return true;
     }
 }
