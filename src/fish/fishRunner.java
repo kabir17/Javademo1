@@ -26,6 +26,7 @@ public class fishRunner {
           shrmobj.booleanValue();
         shrmobj.booleanTrue();
         shrmobj.trueFalse();
+        shrmobj.oddEven();
 
         Tuna tobj = new Tuna();
         tobj.display();
