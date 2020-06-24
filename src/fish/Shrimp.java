@@ -104,14 +104,4 @@ public class Shrimp {
             System.out.println("Odd number");
         }
     }
-    public void oddEvenNumber(){
-        int i=100;
-
-        if(i==100){
-            System.out.println("100 is a even number");
-        }
-        else {
-            System.out.println("No number,no msg");
-        }
-    }
 }

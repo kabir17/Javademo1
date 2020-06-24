@@ -37,6 +37,5 @@ public class fishRunner {
         System.out.println(tobj.isBoolean());
         System.out.println(tobj.trueFalse());
         shrmobj.oddEven();
-        shrmobj.oddEvenNumber();
     }
 }
